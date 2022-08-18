@@ -99,4 +99,4 @@ Papua
 
 5. Papua Pegunungan: Kabupaten Jayawijaya
 
-src: https://www.detik.com/jabar/berita/d-6157370/daftar-lengkap-37-provinsi-di-indonesia-dan-nama-ibukotanya.
+src: dari <a href=https://www.detik.com/jabar/berita/d-6157370/daftar-lengkap-37-provinsi-di-indonesia-dan-nama-ibukotanya>sini</a>.
