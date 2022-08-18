@@ -3,8 +3,6 @@ daftar propinsi di indonesia
 
 Berdasarkan rapat paripurna DPR RI ke-26 masa persidangan V tahun sidang 2021-2022.
 
-Baca artikel detikjabar, "Daftar Lengkap 37 Provinsi di Indonesia dan Nama Ibukotanya" selengkapnya https://www.detik.com/jabar/berita/d-6157370/daftar-lengkap-37-provinsi-di-indonesia-dan-nama-ibukotanya.
-
 Berikut ini 37 provinsi di Indonesia, merangkum data Sekretariat Utama Lemhanas RI, arsip berita detikcom, dan situs terkait:
 
 
@@ -101,3 +99,4 @@ Papua
 
 5. Papua Pegunungan: Kabupaten Jayawijaya
 
+src: https://www.detik.com/jabar/berita/d-6157370/daftar-lengkap-37-provinsi-di-indonesia-dan-nama-ibukotanya.
